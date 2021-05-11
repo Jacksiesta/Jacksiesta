@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <div>
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jacksiesta&count_private=true&theme=synthwave&show_icons=true" />
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacksiesta&count_private=true&theme=synthwavet&show_icons=true" />
 </div>
+-->
